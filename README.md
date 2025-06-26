@@ -1,1 +1,0 @@
-# gibigubae-frontend
